@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="manifests" fetch=".."/>
+    <default revision="master" remote="manifests" sync-j="6" />
+    <project name="demo_NFC" path="source/demo_NFC.git" revision="main" />
+</manifest>
+ 
